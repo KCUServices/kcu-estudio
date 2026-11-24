@@ -60,6 +60,6 @@ Vamos mostrar o Estúdio a ser usado, **sem cortes**, nos vídeos da série. As 
 
 Queres saber quando abre a mais pessoas? Segue-nos no Instagram [@kcu.services](https://www.instagram.com/kcu.services).
 
-## Licença
+## Licença e marca
 
-Os textos e as imagens desta página estão sob a [PolyForm Noncommercial 1.0.0](LICENSE). O KCU Estúdio em si não está incluído: o código não é público.
+O KCU Estúdio **não é código aberto**: esta página é só uma montra. O nome KCU, os logótipos e todas as imagens desta página (os prints do Estúdio incluídos) são da KCU Services, com **todos os direitos reservados**. Não podem ser copiados nem usados noutros produtos, páginas ou anúncios. Ver [MARCA.md](MARCA.md).
